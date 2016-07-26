@@ -17,3 +17,4 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141287
       publisher={Public Library of Science}
     }
 
+![journal pone 0141287 g002](https://cloud.githubusercontent.com/assets/8551117/17157993/1b38b6c2-5348-11e6-9f46-598e80acef71.png)
