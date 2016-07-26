@@ -2,7 +2,7 @@
 
 We introduce a new representation for biological sequences. Named bio-vectors (BioVec) to refer to biological sequences in general
 with protein-vectors (ProtVec) for proteins (amino-acid sequences) and gene-vectors (GeneVec) for gene sequences, this representation
-can be widely used in applications of deep learning in proteomics and genomics.
+can be widely used in applications of deep learning in proteomics and genomics. Biovectors are basically n-gram character skip-gram wordvectors for biological sequences.
 
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141287
 
