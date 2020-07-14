@@ -2,9 +2,9 @@
 
 Update: More recent model trained over UniRef50 can be downloaded from the following link.
 
-'''
+''
 wget http://deepbio.info/uniref_embeddings.zip
-'''
+''
 
 
 
