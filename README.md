@@ -1,6 +1,6 @@
 # Continuous Distributed Representation of Biological Sequences for Deep Genomics and Deep Proteomics
 
-Update: More recent model trained over UniRef50 can be downloaded from the following link.
+Update: More recent model trained over UniRef50 can be downloaded from the following link, July 2020.
 
 ''
 wget http://deepbio.info/uniref_embeddings.zip
