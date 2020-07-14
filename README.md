@@ -1,5 +1,13 @@
 # Continuous Distributed Representation of Biological Sequences for Deep Genomics and Deep Proteomics
 
+Update: More recent model trained over UniRef50 can be downloaded from the following link.
+
+'''
+wget http://deepbio.info/uniref_embeddings.zip
+'''
+
+
+
 We introduce a new representation for biological sequences. Named bio-vectors (BioVec) to refer to biological sequences in general
 with protein-vectors (ProtVec) for proteins (amino-acid sequences) and gene-vectors (GeneVec) for gene sequences, this representation
 can be widely used in applications of deep learning in proteomics and genomics. Biovectors are basically n-gram character skip-gram wordvectors for biological sequences (DNA, RNA, and Protein). In this work, we have explored biophysical and biochemical meaning of this space. In addition, in variety of bioinformatics tasks we have shown the strength of such a sequence representation.
